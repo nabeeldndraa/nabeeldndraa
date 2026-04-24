@@ -1,11 +1,20 @@
 <div align="center">
 
-# Hi! I'm Nabil Z. Danendra🐲
-### Aspiring Frontend Engineer
+<h1>Hi 👋, I'm Nabil Z. Danendra</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+in+Progress;Learning+Fullstack;Building+Step+by+Step;Consistency+Over+Talent&center=true&width=520&height=45" />
+<h3>Frontend-Focused Developer • Fullstack Learner</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+Frontend+Step+by+Step;Building+Real+Projects;Exploring+Fullstack;Consistency+Over+Perfection" />
+
+<br/>
+
+<p>
+  💻 Frontend • ⚙️ Backend Basics • 📱 Mobile • 🎨 UI/UX
+</p>
 
 </div>
+
+---
 
 ---
 
