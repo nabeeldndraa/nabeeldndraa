@@ -1,44 +1,48 @@
 <div align="center">
 
 # NABILL Z 👾  
-### Aspiring Frontend Developer (Fullstack Learner)
+### Aspiring Frontend Engineer
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Learning+Frontend;Exploring+Fullstack;Building+Step+by+Step;Keep+Growing&center=true&width=520&height=45" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+in+Progress;Learning+Fullstack;Building+Step+by+Step;Consistency+Over+Talent&center=true&width=520&height=45" />
 
 </div>
 
 ---
 
-## 🌱 About Me
-I'm a beginner developer who is passionate about learning technology,  
-especially in frontend development. Currently exploring how frontend  
-and backend work together to build real applications.
+## 🧠 Overview
+A beginner developer focused on frontend development,  
+currently learning how to build clean interfaces and understand  
+how systems work behind the scenes.
 
 ---
 
-## 🎯 Current Focus
-- 🎨 Learning frontend (HTML, CSS, JavaScript)  
-- ⚙️ Understanding backend basics (PHP & Laravel)  
-- 🔗 Trying to connect UI with API  
-- 🚀 Building small projects to improve skills  
+## ⚡ Current State
+- 🌱 Still learning & exploring  
+- 🎯 Focused on frontend fundamentals  
+- 🔗 Starting to understand API & backend flow  
+- 🚀 Building small but meaningful projects  
 
 ---
 
-## 🧩 Tech Stack (Learning)
+## 🎯 Learning Direction
+- 🎨 UI development (HTML, CSS, JavaScript)  
+- ⚙️ Backend fundamentals (PHP & Laravel)  
+- 🔄 Connecting frontend with API  
+- 📱 Exploring web & mobile development  
 
-### 🎨 Frontend
+---
+
+## 🧩 Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</div>
 
-### ⚙️ Backend
-<div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
@@ -50,24 +54,34 @@ and backend work together to build real applications.
 
 ---
 
-## 🚀 Learning Journey
-- [x] Basic HTML, CSS  
-- [x] Introduction to JavaScript  
-- [ ] Build interactive UI  
-- [ ] Learn API integration  
-- [ ] Build fullstack project  
+## 🚀 Progress Path
+
+Basic → Interactive UI → API Integration → Fullstack App  
+
+📍 Current: Interactive UI
 
 ---
 
-## 💬 Mindset
-> “I may be a beginner, but I’m consistent.”
+## 🛣️ Learning Roadmap
+- [x] HTML, CSS basics  
+- [x] JavaScript introduction  
+- [ ] Interactive UI (DOM & Events)  
+- [ ] API integration  
+- [ ] First fullstack project  
 
 ---
 
-## 📫 Contact
+## 💬 Philosophy
+> “Small progress is still progress.”
+
+---
+
+## 📫 Reach Me
+
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzydndraa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nabeeldndraa)
 
 </div>
 
@@ -75,6 +89,6 @@ and backend work together to build real applications.
 
 <div align="center">
 
-🔥 *Still learning, still growing.*
+⚡ *Learning today, building tomorrow.*
 
 </div>
