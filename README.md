@@ -1,6 +1,6 @@
 <div align="center">
 
-# NABILL Z 👾  
+# Hi! I'm Nabil Z. Danendra🐲
 ### Aspiring Frontend Engineer
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+in+Progress;Learning+Fullstack;Building+Step+by+Step;Consistency+Over+Talent&center=true&width=520&height=45" />
