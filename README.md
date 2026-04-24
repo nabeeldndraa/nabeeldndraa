@@ -42,9 +42,9 @@ and backend work together to build real applications.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=nabeeldndraa&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabeeldndraa&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -67,7 +67,7 @@ and backend work together to build real applications.
 ## 📫 Contact
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzydndraa@gmail.com)
 
 </div>
 
