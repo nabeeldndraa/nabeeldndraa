@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 🧠 Overview
 A beginner developer focused on frontend development,  
 currently learning how to build clean interfaces and understand  
