@@ -1,79 +1,110 @@
 <div align="center">
 
-# 🚀 Hello, I'm Nabil Z. Danendra
-### **Frontend Enthusiast • Fullstack Learner • Tech Explorer**
+<img src="assets/hero.svg" width="100%" alt="Nabil Digital Workshop">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Mastering+Modern+Web+Development;Building+with+TypeScript+%26+Tailwind;Exploring+Node.js+%26+MongoDB;Consistency+Over+Perfection" />
+</div>
 
-<p align="center">
-  <a href="https://instagram.com/nabeeldndraa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:enzydndraa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+### `// DIGITAL WORKSHOP`
+
+**Frontend enthusiast · Fullstack learner · Tech explorer**
+
+I like turning ideas into interfaces, small systems, and experiments that actually work.
+
+</div>
+
+<div align="center">
+
+<img src="assets/divider.svg" width="100%" alt="section divider">
+
+</div>
+
+## `// about.system`
+
+```txt
+NAME       :: Nabil Z. Danendra
+ROLE       :: Information Technology Student
+FOCUS      :: Frontend • Web Development • UI/UX
+CURRENT    :: Learning + Building
+WORKFLOW   :: Design → Build → Test → Improve
+```
+
+- Building clean and responsive web interfaces.
+- Exploring fullstack development step by step.
+- Interested in UI/UX, interactive systems, and practical software projects.
+- Always experimenting with better ways to turn ideas into usable products.
+
+---
+
+## `// tech.stack`
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-## ⚡ About Me
-I am a passionate **Frontend-focused developer** currently expanding my horizons into the world of **Fullstack development**. I love building clean, responsive interfaces and am now diving deep into modern stacks like Node.js and NoSQL databases.
+## `// projects.log`
 
-- 🔭 **Current Focus:** Advanced UI with **Tailwind CSS** & Type-safe code with **TypeScript**.
-- 🌱 **Learning:** **MongoDB** for flexible data storage and **Node.js** for scalable backends.
-- 🎯 **Goal:** Becoming a proficient Fullstack Developer.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and my learning journey.
+| PROJECT | DESCRIPTION | STACK |
+|:--|:--|:--|
+| **CookCash** | Recipe recommendation & budget management concept for students. | `Flutter` `Laravel` |
+| **BPBD Decision Support** | Decision-support concept for volunteer assignment and disaster response. | `PHP` `MySQL` |
+| **Roomio** | Web concept for discovering boarding houses and rentals. | `HTML` `CSS` `JS` |
+| **Web Experiments** | Small interfaces, components, and experiments while learning. | `Various` |
 
----
-
-## 💻 My Tech Universe
-
-### 🎨 Frontend & Design
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend & Runtime
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools & Others
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> More projects will appear here as they are shipped.
 
 ---
 
-## 📊 GitHub Analytics
+## `// github.activity`
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nabeeldndraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeeldndraa&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nabeeldndraa&show_icons=true&theme=transparent&hide_border=true&title_color=57D8FF&icon_color=57D8FF&text_color=A8B5C2&bg_color=00000000" width="49%" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=nabeeldndraa&theme=transparent&hide_border=true&ring=57D8FF&fire=57D8FF&currStreakLabel=57D8FF&sideLabels=A8B5C2&dates=6F7D8A&currStreakNum=F0F4F8&sideNums=F0F4F8&background=00000000" width="49%" alt="GitHub streak">
+
 </div>
 
 ---
 
-## 🛣️ Learning Roadmap
-- [x] Responsive Web Design (Tailwind CSS)
-- [x] JavaScript & TypeScript Fundamentals
-- [ ] Modern Frontend Frameworks (React/Next.js) 📍 *Next Plan*
-- [ ] Fullstack Mastery (Node.js + MongoDB)
-- [ ] Building Robust APIs with Laravel
+## `// currently.building`
+
+```text
+[■■■■■■■■■■■■■■■■□□]  80%
+
+→ improving frontend fundamentals
+→ exploring fullstack workflows
+→ designing better interfaces
+→ shipping personal projects
+```
 
 ---
 
+## `// connect`
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  <br />
-  <b>⚡ Learning today, building tomorrow.</b>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=F0F4F8)](https://github.com/nabeeldndraa)
+[![Instagram](https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/)
+
+</div>
+
+<div align="center">
+
+<img src="assets/footer.svg" width="100%" alt="footer">
+
 </div>
