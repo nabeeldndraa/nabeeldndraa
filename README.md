@@ -73,8 +73,7 @@ WORKFLOW   :: Design → Build → Test → Improve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nabeeldndraa&show_icons=true&theme=transparent&hide_border=true&title_color=57D8FF&icon_color=57D8FF&text_color=A8B5C2&bg_color=00000000" width="49%" alt="GitHub stats">
-<img src="https://streak-stats.demolab.com?user=nabeeldndraa&theme=transparent&hide_border=true&ring=57D8FF&fire=57D8FF&currStreakLabel=57D8FF&sideLabels=A8B5C2&dates=6F7D8A&currStreakNum=F0F4F8&sideNums=F0F4F8&background=00000000" width="49%" alt="GitHub streak">
+<img src="https://streak-stats.demolab.com?user=nabeeldndraa&theme=transparent&hide_border=true&ring=57D8FF&fire=57D8FF&currStreakLabel=57D8FF&sideLabels=A8B5C2&dates=6F7D8A&currStreakNum=F0F4F8&sideNums=F0F4F8&background=00000000" width="70%" alt="GitHub streak">
 
 </div>
 
