@@ -8,9 +8,9 @@
 
 ### `// DIGITAL WORKSHOP`
 
-**Frontend enthusiast · Fullstack learner · Tech explorer**
+**Information Technology Student · Web Developer · UI/UX Explorer**
 
-I like turning ideas into interfaces, small systems, and experiments that actually work.
+I build practical digital products, experiment with interfaces, and turn ideas into working systems.
 
 </div>
 
@@ -23,17 +23,17 @@ I like turning ideas into interfaces, small systems, and experiments that actual
 ## `// about.system`
 
 ```txt
-NAME       :: Nabil Z. Danendra
+IDENTITY   :: Nabil Z. Danendra
 ROLE       :: Information Technology Student
-FOCUS      :: Frontend • Web Development • UI/UX
-CURRENT    :: Learning + Building
-WORKFLOW   :: Design → Build → Test → Improve
+FOCUS      :: Web Development • UI/UX • Creative Tech
+TOOLBOX    :: Code • Design • Problem Solving
+WORKFLOW   :: Explore → Design → Build → Improve
+LOCATION   :: Indonesia
 ```
 
-- Building clean and responsive web interfaces.
-- Exploring fullstack development step by step.
-- Interested in UI/UX, interactive systems, and practical software projects.
-- Always experimenting with better ways to turn ideas into usable products.
+I enjoy working where **design meets technology** — from shaping interfaces in Figma to turning them into functional web and application projects.
+
+My current direction is to become more confident across the stack while keeping a strong eye for usability and visual detail.
 
 ---
 
@@ -49,8 +49,19 @@ WORKFLOW   :: Design → Build → Test → Improve
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## `// workspace.stats`
+
+<div align="center">
+
+<img src="assets/stats.svg" width="100%" alt="Workspace statistics">
 
 </div>
 
@@ -66,15 +77,13 @@ WORKFLOW   :: Design → Build → Test → Improve
 
 ---
 
-## `// workspace.stats`
+## `// github.activity`
 
 <div align="center">
 
-<img src="assets/stats.svg" width="100%" alt="Workspace statistics">
+<img src="https://streak-stats.demolab.com?user=nabeeldndraa&theme=transparent&hide_border=true&ring=57D8FF&fire=57D8FF&currStreakLabel=57D8FF&sideLabels=A8B5C2&dates=6F7D8A&currStreakNum=F0F4F8&sideNums=F0F4F8&background=00000000" width="70%" alt="GitHub streak">
 
 </div>
-
-> This panel is intentionally local SVG, so it will load reliably without depending on an external stats service.
 
 ---
 
