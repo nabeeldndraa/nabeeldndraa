@@ -58,24 +58,23 @@ WORKFLOW   :: Design → Build → Test → Improve
 
 ## `// projects.log`
 
-| PROJECT | DESCRIPTION | STACK |
-|:--|:--|:--|
-| **CookCash** | Recipe recommendation & budget management concept for students. | `Flutter` `Laravel` |
-| **BPBD Decision Support** | Decision-support concept for volunteer assignment and disaster response. | `PHP` `MySQL` |
-| **Roomio** | Web concept for discovering boarding houses and rentals. | `HTML` `CSS` `JS` |
-| **Web Experiments** | Small interfaces, components, and experiments while learning. | `Various` |
+<div align="center">
 
-> More projects will appear here as they are shipped.
+<img src="assets/projects.svg" width="100%" alt="Projects log">
+
+</div>
 
 ---
 
-## `// github.activity`
+## `// workspace.stats`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nabeeldndraa&theme=transparent&hide_border=true&ring=57D8FF&fire=57D8FF&currStreakLabel=57D8FF&sideLabels=A8B5C2&dates=6F7D8A&currStreakNum=F0F4F8&sideNums=F0F4F8&background=00000000" width="70%" alt="GitHub streak">
+<img src="assets/stats.svg" width="100%" alt="Workspace statistics">
 
 </div>
+
+> This panel is intentionally local SVG, so it will load reliably without depending on an external stats service.
 
 ---
 

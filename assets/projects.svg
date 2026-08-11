@@ -1,0 +1,41 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="500" rx="16" fill="#0B0F14"/>
+
+<!-- Project 01 -->
+<rect x="20" y="20" width="1160" height="205" rx="12" fill="#0F151C" stroke="#2B3744"/>
+<rect x="20" y="20" width="7" height="205" rx="3" fill="#57D8FF"/>
+<text x="52" y="55" fill="#57D8FF" font-family="monospace" font-size="12">01  /  PROJECT://COOKCASH</text>
+<text x="52" y="91" fill="#F0F4F8" font-family="Arial, sans-serif" font-size="25" font-weight="700">CookCash</text>
+<text x="52" y="119" fill="#A8B5C2" font-family="Arial, sans-serif" font-size="14">Recipe recommendation &amp; budget management for students.</text>
+
+<rect x="52" y="143" width="78" height="25" rx="5" fill="#16232C"/>
+<text x="66" y="160" fill="#57D8FF" font-family="monospace" font-size="10">FLUTTER</text>
+<rect x="138" y="143" width="78" height="25" rx="5" fill="#16232C"/>
+<text x="153" y="160" fill="#57D8FF" font-family="monospace" font-size="10">LARAVEL</text>
+<rect x="224" y="143" width="78" height="25" rx="5" fill="#16232C"/>
+<text x="240" y="160" fill="#57D8FF" font-family="monospace" font-size="10">MONGODB</text>
+
+<text x="52" y="198" fill="#667786" font-family="monospace" font-size="10">TYPE :: MOBILE APPLICATION</text>
+<text x="365" y="198" fill="#42D77D" font-family="monospace" font-size="10">STATUS :: DEVELOPMENT</text>
+
+<!-- Project 02 -->
+<rect x="20" y="250" width="1160" height="205" rx="12" fill="#0F151C" stroke="#2B3744"/>
+<rect x="20" y="250" width="7" height="205" rx="3" fill="#42D77D"/>
+<text x="52" y="285" fill="#42D77D" font-family="monospace" font-size="12">02  /  PROJECT://ROOMIO</text>
+<text x="52" y="321" fill="#F0F4F8" font-family="Arial, sans-serif" font-size="25" font-weight="700">Roomio</text>
+<text x="52" y="349" fill="#A8B5C2" font-family="Arial, sans-serif" font-size="14">Boarding house &amp; rental discovery platform.</text>
+
+<rect x="52" y="373" width="62" height="25" rx="5" fill="#16251F"/>
+<text x="67" y="390" fill="#42D77D" font-family="monospace" font-size="10">HTML</text>
+<rect x="122" y="373" width="62" height="25" rx="5" fill="#16251F"/>
+<text x="139" y="390" fill="#42D77D" font-family="monospace" font-size="10">CSS</text>
+<rect x="192" y="373" width="78" height="25" rx="5" fill="#16251F"/>
+<text x="207" y="390" fill="#42D77D" font-family="monospace" font-size="10">JAVASCRIPT</text>
+<rect x="278" y="373" width="62" height="25" rx="5" fill="#16251F"/>
+<text x="294" y="390" fill="#42D77D" font-family="monospace" font-size="10">PHP</text>
+<rect x="348" y="373" width="78" height="25" rx="5" fill="#16251F"/>
+<text x="363" y="390" fill="#42D77D" font-family="monospace" font-size="10">MYSQL</text>
+
+<text x="52" y="428" fill="#667786" font-family="monospace" font-size="10">TYPE :: WEB APPLICATION</text>
+<text x="365" y="428" fill="#42D77D" font-family="monospace" font-size="10">STATUS :: DEVELOPMENT</text>
+</svg>
