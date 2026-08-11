@@ -75,6 +75,15 @@ My current direction is to become more confident across the stack while keeping 
 
 </div>
 
+<div align="center">
+
+**`01 / COOKCASH`** · [VIEW REPOSITORY →](https://github.com/Rikuyy/Aldente-Project)
+
+**`02 / ROOMIO`** · [VIEW REPOSITORY →](https://github.com/nabeeldndraa/Website-Roomio)
+
+</div>
+
+
 ---
 
 ## `// github.activity`
