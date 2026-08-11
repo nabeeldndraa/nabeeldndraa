@@ -1,0 +1,7 @@
+<svg width="1200" height="70" viewBox="0 0 1200 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 35H510" stroke="#26323E"/>
+<path d="M690 35H1200" stroke="#26323E"/>
+<circle cx="600" cy="35" r="8" fill="#0B0F14" stroke="#57D8FF"/>
+<circle cx="600" cy="35" r="3" fill="#57D8FF"/>
+<text x="534" y="20" fill="#536270" font-family="monospace" font-size="10">SYSTEM://SECTION</text>
+</svg>

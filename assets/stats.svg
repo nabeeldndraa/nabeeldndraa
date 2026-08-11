@@ -1,0 +1,24 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="1198" height="208" rx="14" fill="#0F151C" stroke="#2B3744"/>
+<text x="32" y="34" fill="#57D8FF" font-family="monospace" font-size="12">// WORKSPACE.METRICS</text>
+
+<rect x="32" y="55" width="260" height="120" rx="10" fill="#0B1117" stroke="#26333F"/>
+<text x="54" y="84" fill="#6F7D8A" font-family="monospace" font-size="11">PROFILE</text>
+<text x="54" y="119" fill="#F0F4F8" font-family="Arial, sans-serif" font-size="28" font-weight="700">NABIL</text>
+<text x="54" y="146" fill="#42D77D" font-family="monospace" font-size="11">● ACTIVE BUILDER</text>
+
+<rect x="316" y="55" width="260" height="120" rx="10" fill="#0B1117" stroke="#26333F"/>
+<text x="338" y="84" fill="#6F7D8A" font-family="monospace" font-size="11">FOCUS</text>
+<text x="338" y="119" fill="#F0F4F8" font-family="monospace" font-size="18">WEB / UI</text>
+<text x="338" y="146" fill="#57D8FF" font-family="monospace" font-size="11">FRONTEND + FULLSTACK</text>
+
+<rect x="600" y="55" width="260" height="120" rx="10" fill="#0B1117" stroke="#26333F"/>
+<text x="622" y="84" fill="#6F7D8A" font-family="monospace" font-size="11">STACK</text>
+<text x="622" y="119" fill="#F0F4F8" font-family="monospace" font-size="18">PHP / JS</text>
+<text x="622" y="146" fill="#57D8FF" font-family="monospace" font-size="11">LARAVEL / FLUTTER</text>
+
+<rect x="884" y="55" width="284" height="120" rx="10" fill="#0B1117" stroke="#26333F"/>
+<text x="906" y="84" fill="#6F7D8A" font-family="monospace" font-size="11">BUILD STATUS</text>
+<text x="906" y="119" fill="#42D77D" font-family="monospace" font-size="18">● ONLINE</text>
+<text x="906" y="146" fill="#A8B5C2" font-family="monospace" font-size="11">DESIGN → BUILD → SHIP</text>
+</svg>
