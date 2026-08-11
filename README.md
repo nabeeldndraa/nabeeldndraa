@@ -80,14 +80,11 @@ WORKFLOW   :: Design → Build → Test → Improve
 
 ## `// currently.building`
 
-```text
-[■■■■■■■■■■■■■■■■□□]  80%
+<div align="center">
 
-→ improving frontend fundamentals
-→ exploring fullstack workflows
-→ designing better interfaces
-→ shipping personal projects
-```
+<img src="assets/currently.svg" width="100%" alt="Currently building">
+
+</div>
 
 ---
 
